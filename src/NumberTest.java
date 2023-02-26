@@ -1,9 +1,9 @@
+// sample program to test branches 
 Public class Numbers{
   int x;
 	Numbers(int x){
 	this.x=x;	
 }
-
 public class NumberTest {
 
 	public static void main(String[] args) {
@@ -11,9 +11,19 @@ public class NumberTest {
 		for(int i=1; i<=10; i++) {
 			System.out.println(i);
 		}
-		 Numbers num= new Numbers(50);
+    
+Numbers num= new Numbers(50);
 		System.out.println(x);
+
+		System.out.println("All the changes are done");
+
 
 	}
 
 }
+
+
+
+
+
+		 
