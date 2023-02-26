@@ -1,3 +1,8 @@
+Public class Numbers{
+  int x;
+	Numbers(int x){
+	this.x=x;	
+}
 
 public class NumberTest {
 
@@ -6,6 +11,7 @@ public class NumberTest {
 		for(int i=1; i<=10; i++) {
 			System.out.println(i);
 		}
+		 Numbers num= new Numbers(50);
 
 	}
 
