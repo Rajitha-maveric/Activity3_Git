@@ -4,8 +4,7 @@ package DemoPage;
 	import org.openqa.selenium.By;
 	import org.openqa.selenium.WebDriver;
 	
-
-	public class SaucedemoLoginPage {
+		public class SaucedemoLoginPage {
 		WebDriver driver;
 		By uName = By.id("user-name");
 		By uPass = By.xpath("//*[@id=\"password\"]");
