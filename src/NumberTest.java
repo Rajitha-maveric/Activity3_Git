@@ -1,4 +1,4 @@
-//program to check the break statement
+//program to check the break statement in java
 
 public class NumberTest {
 
