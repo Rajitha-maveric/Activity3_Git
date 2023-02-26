@@ -12,6 +12,7 @@ public class NumberTest {
 			System.out.println(i);
 		}
 		 Numbers num= new Numbers(50);
+		System.out.println(x);
 
 	}
 
